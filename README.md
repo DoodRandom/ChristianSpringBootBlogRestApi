@@ -1,5 +1,5 @@
 # ChristianSpringBootBlogRestApi
-ChristianBlogRestApi
+christianBlogRestApi
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=DoodRandom_ChristianSpringBootBlogRestApi&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=DoodRandom_ChristianSpringBootBlogRestApi)
 
